@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+pandas
+numpy
+faker
+pycountry
+azure-eventhub
